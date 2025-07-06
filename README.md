@@ -13,7 +13,7 @@ Coin System
 
 Checklist
 =============
-- [ ] Add coin item
+- [x] Add coin item
 - [ ] Get coin via Mobs
 - [ ] Add shop UI
 - [ ] Add items in shop
